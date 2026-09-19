@@ -1,9 +1,3 @@
-# DL and GenAI Project  
-**Name:** Mythreyee Hari  
-**Roll No:** 24f2009276  
-
----
-
 # Messy Mashup – Robust Music Genre Classification
 
 ## Overview
